@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rav5a79bv-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rav5a79bv-python
